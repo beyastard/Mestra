@@ -1,8 +1,7 @@
 cff-version: 1.2.0
-title: LLH16 - Log-Linear Hybrid 16-bit Quantized LLM
+title: MESTRA - Modular and Extensible System for Training and Reasoning with AI
 message: >-
-  A split representation combining the best of logarithmic
-  and linear encoding.
+  Modular and Extensible System for Training and Reasoning with AI
   type: software
 authors:
   - given-names: Bryan
@@ -10,10 +9,8 @@ authors:
     email: bryankreinhart@gmail.com
     affiliation: BeySoft/CDI
     orcid: 'https://orcid.org/0009-0008-6997-2103'
-repository-code: 'https://github.com/beyastard/LLH16'
+repository-code: 'https://github.com/beyastard/Mestra'
 abstract: >-
-  LLH16 is an efficient and novel language model
-  architecture that is a split representation combining the
-  best of logarithmic and linear encoding.
+  Modular and Extensible System for Training and Reasoning with AI
 license: MIT
 version: 0.1.0
